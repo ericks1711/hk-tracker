@@ -54,7 +54,3 @@ hk-tracker/
 │   └── script.js    # renderização, progresso e persistência
 └── imgs/
 ```
-
-## Créditos
-
-Projeto pessoal, sem fins comerciais, feito para aprendizado e portfólio. *Hollow Knight*, suas imagens e seus nomes pertencem à Team Cherry.
